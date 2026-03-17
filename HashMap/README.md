@@ -73,10 +73,10 @@ The Result => true
 
 **twoSum:**
 ```
-Target: 7
+Target: 6
 Array: 
 4 2 9 1 5
-Result: 0 2
+Result: 0 1
 ```
 
 ---
